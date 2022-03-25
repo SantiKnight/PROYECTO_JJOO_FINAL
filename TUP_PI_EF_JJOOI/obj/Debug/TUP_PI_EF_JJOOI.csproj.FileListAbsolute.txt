@@ -1,0 +1,30 @@
+D:\Oscar\UTN\ProgramacionI\2021\ExamenTUPPI27072021\TUP_PI_EF_JJOOI\bin\Debug\TUP_PI_EF_JJOOI.exe.config
+D:\Oscar\UTN\ProgramacionI\2021\ExamenTUPPI27072021\TUP_PI_EF_JJOOI\bin\Debug\TUP_PI_EF_JJOOI.exe
+D:\Oscar\UTN\ProgramacionI\2021\ExamenTUPPI27072021\TUP_PI_EF_JJOOI\bin\Debug\TUP_PI_EF_JJOOI.pdb
+D:\Oscar\UTN\ProgramacionI\2021\ExamenTUPPI27072021\TUP_PI_EF_JJOOI\obj\Debug\TUP_PI_EF_JJOOI.csprojAssemblyReference.cache
+D:\Oscar\UTN\ProgramacionI\2021\ExamenTUPPI27072021\TUP_PI_EF_JJOOI\obj\Debug\TUP_PI_EF_JJOOI.frmCompetidores.resources
+D:\Oscar\UTN\ProgramacionI\2021\ExamenTUPPI27072021\TUP_PI_EF_JJOOI\obj\Debug\TUP_PI_EF_JJOOI.Properties.Resources.resources
+D:\Oscar\UTN\ProgramacionI\2021\ExamenTUPPI27072021\TUP_PI_EF_JJOOI\obj\Debug\TUP_PI_EF_JJOOI.csproj.GenerateResource.cache
+D:\Oscar\UTN\ProgramacionI\2021\ExamenTUPPI27072021\TUP_PI_EF_JJOOI\obj\Debug\TUP_PI_EF_JJOOI.csproj.CoreCompileInputs.cache
+D:\Oscar\UTN\ProgramacionI\2021\ExamenTUPPI27072021\TUP_PI_EF_JJOOI\obj\Debug\TUP_PI_EF_JJOOI.exe
+D:\Oscar\UTN\ProgramacionI\2021\ExamenTUPPI27072021\TUP_PI_EF_JJOOI\obj\Debug\TUP_PI_EF_JJOOI.pdb
+C:\Users\White Power\Downloads\TUP_PI_EF_JJOOI\bin\Debug\TUP_PI_EF_JJOOI.exe.config
+C:\Users\White Power\Downloads\TUP_PI_EF_JJOOI\bin\Debug\TUP_PI_EF_JJOOI.exe
+C:\Users\White Power\Downloads\TUP_PI_EF_JJOOI\bin\Debug\TUP_PI_EF_JJOOI.pdb
+C:\Users\White Power\Downloads\TUP_PI_EF_JJOOI\obj\Debug\TUP_PI_EF_JJOOI.csprojAssemblyReference.cache
+C:\Users\White Power\Downloads\TUP_PI_EF_JJOOI\obj\Debug\TUP_PI_EF_JJOOI.frmCompetidores.resources
+C:\Users\White Power\Downloads\TUP_PI_EF_JJOOI\obj\Debug\TUP_PI_EF_JJOOI.Properties.Resources.resources
+C:\Users\White Power\Downloads\TUP_PI_EF_JJOOI\obj\Debug\TUP_PI_EF_JJOOI.csproj.GenerateResource.cache
+C:\Users\White Power\Downloads\TUP_PI_EF_JJOOI\obj\Debug\TUP_PI_EF_JJOOI.csproj.CoreCompileInputs.cache
+C:\Users\White Power\Downloads\TUP_PI_EF_JJOOI\obj\Debug\TUP_PI_EF_JJOOI.exe
+C:\Users\White Power\Downloads\TUP_PI_EF_JJOOI\obj\Debug\TUP_PI_EF_JJOOI.pdb
+C:\Users\White Power\Desktop\Programacion\FACU\PROGRAMACIÓN\TUP_PI_EF_JJOOI\bin\Debug\TUP_PI_EF_JJOOI.exe.config
+C:\Users\White Power\Desktop\Programacion\FACU\PROGRAMACIÓN\TUP_PI_EF_JJOOI\bin\Debug\TUP_PI_EF_JJOOI.exe
+C:\Users\White Power\Desktop\Programacion\FACU\PROGRAMACIÓN\TUP_PI_EF_JJOOI\bin\Debug\TUP_PI_EF_JJOOI.pdb
+C:\Users\White Power\Desktop\Programacion\FACU\PROGRAMACIÓN\TUP_PI_EF_JJOOI\obj\Debug\TUP_PI_EF_JJOOI.csprojAssemblyReference.cache
+C:\Users\White Power\Desktop\Programacion\FACU\PROGRAMACIÓN\TUP_PI_EF_JJOOI\obj\Debug\TUP_PI_EF_JJOOI.frmCompetidores.resources
+C:\Users\White Power\Desktop\Programacion\FACU\PROGRAMACIÓN\TUP_PI_EF_JJOOI\obj\Debug\TUP_PI_EF_JJOOI.Properties.Resources.resources
+C:\Users\White Power\Desktop\Programacion\FACU\PROGRAMACIÓN\TUP_PI_EF_JJOOI\obj\Debug\TUP_PI_EF_JJOOI.csproj.GenerateResource.cache
+C:\Users\White Power\Desktop\Programacion\FACU\PROGRAMACIÓN\TUP_PI_EF_JJOOI\obj\Debug\TUP_PI_EF_JJOOI.csproj.CoreCompileInputs.cache
+C:\Users\White Power\Desktop\Programacion\FACU\PROGRAMACIÓN\TUP_PI_EF_JJOOI\obj\Debug\TUP_PI_EF_JJOOI.exe
+C:\Users\White Power\Desktop\Programacion\FACU\PROGRAMACIÓN\TUP_PI_EF_JJOOI\obj\Debug\TUP_PI_EF_JJOOI.pdb
